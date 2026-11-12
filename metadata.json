@@ -1,0 +1,6 @@
+{
+  "name": "Volce Mobilya | Koltuk Döşeme, Mobilya Yenileme & Özel Tasarım",
+  "description": "Volce Mobilya - Koltuk döşeme, mobilya restorasyonu, sünger yenileme ve özel tasarım mobilya üretimi. İstanbul geneli adresten teslim alma ve usta işçilik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

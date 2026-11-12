@@ -13,9 +13,12 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-[4/3] sm:aspect-[4/5] overflow-hidden border border-[#EAE3D6] bg-[#EAE3D6]/40 shadow-xl">
               <img
-                src="/src/assets/images/craftsman_upholstery_detail_1794493579160.jpg"
+                src="https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1200&q=80"
                 alt={`${BUSINESS_CONFIG.name} Döşeme Ustası Atölye Çalışması`}
                 referrerPolicy="no-referrer"
+                onError={(e) => {
+                  e.currentTarget.src = "/images/craftsman_upholstery_detail_1794493579160.jpg";
+                }}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />

@@ -39,7 +39,7 @@ export const BUSINESS_CONFIG = {
         "Eski, yıpranmış veya tarzını değiştirmek istediğiniz koltuk ve kanepelerinizi birinci sınıf sünger ve kumaşlarla baştan aşağı yeniliyoruz.",
       longDescription:
         "Oturma grubu, köşe takımı, chesterfield ve berjer koltuklarınızın iskelet kontrolleri yapılır, çöken süngerler 35 DNS HR yüksek dansite süngerlerle değiştirilir ve seçtiğiniz leke tutmaz kumaşla titizlikle döşenir.",
-      image: "/src/assets/images/hero_luxury_sofa_1794493578355.jpg",
+      image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
       features: [
         "35 DNS HR Yüksek Dansiteli Ortopedik Sünger",
         "İskelet ve Yay Sistemi Güçlendirme",
@@ -55,7 +55,7 @@ export const BUSINESS_CONFIG = {
         "Antika, ahşap ve klasik mobilyalarınızın yapısal onarım, zımpara, lake boya ve gomalak cila restorasyonunu gerçekleştiriyoruz.",
       longDescription:
         "Zamanla çizilen, yıpranan veya rengi solan yemek masaları, konsollar, sehpalar ve ahşap koltuk iskeletleri zanaatkar cilacılarımız tarafından sıfırlanarak modern veya klasik tarzda yenilenir.",
-      image: "/src/assets/images/craftsman_upholstery_detail_1794493579160.jpg",
+      image: "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1200&q=80",
       features: [
         "Doğal Ahşap Zımpara ve Yüzey Temizliği",
         "Gomalak, Mat, İpek Mat ve Lake Boyama",
@@ -71,7 +71,7 @@ export const BUSINESS_CONFIG = {
         "Yemek odası, mutfak ve salon sandalyelerinizin sünger ve kumaşlarını yenileyerek dayanıklı ve şık hale getiriyoruz.",
       longDescription:
         "Sallanan sandalye iskeletleri tutkallanarak sağlamlaştırılır, esneyen kolon lastikleri gerdirilir ve leke tutmayan, kolay silinebilen kumaşlarla uzun ömürlü kullanım sağlanır.",
-      image: "/src/assets/images/restored_armchair_showcase_1794493580114.jpg",
+      image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1200&q=80",
       features: [
         "Kolon Lastik ve İskelet Sağlamlaştırma",
         "Sıvı İtici ve Kolay Silinebilir Kumaşlar",
@@ -87,7 +87,7 @@ export const BUSINESS_CONFIG = {
         "Evinizin veya ofisinizin mimari ölçülerine tam uyum sağlayan, dilediğiniz ölçü ve kumaşta kişiye özel mobilyalar üretiyoruz.",
       longDescription:
         "Standart ölçülere sığmayan mekanlar için fırınlanmış gürgen ağacından özel ölçü köşe koltuklar, sedirler, yatak başlıkları ve puflar imal ediyoruz.",
-      image: "/src/assets/images/custom_bespoke_sectional_1794493579787.jpg",
+      image: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1200&q=80",
       features: [
         "Mekana Özel Milimetrik Ölçülendirme",
         "1. Sınıf Fırınlanmış Gürgen İskelet",
@@ -103,7 +103,7 @@ export const BUSINESS_CONFIG = {
         "Zengin bukle, nubuk, kadife, keten ve hakiki deri kartelalarımız ile tarzınıza en uygun dokuyu seçme özgürlüğü.",
       longDescription:
         "Evinizin kullanım sıklığına, çocuk veya evcil hayvan durumuna göre su itici, tırnak takılmayan, nefes alabilen ve solmayan yüzlerce renk ve doku seçeneğini kapınıza getiriyoruz.",
-      image: "/src/assets/images/craftsman_upholstery_detail_1794493579160.jpg",
+      image: "https://images.unsplash.com/photo-1579656381226-5fc0f0100c3b?auto=format&fit=crop&w=1200&q=80",
       features: [
         "Bukle & Teddy Sıcak Doku Koleksiyonu",
         "Leke Tutmaz & Kolay Temizlenen Nubuk",
@@ -123,7 +123,7 @@ export const BUSINESS_CONFIG = {
       description: "Yıpranmış köşe grubu yerine özel ölçüyle sıfırdan üretilen, sıcak fildişi bukle kumaş kaplamalı organik formlu salon koltuğu.",
       materials: "Fildişi Dokulu Bukle Kumaş · 35 DNS HR Sünger · Masif Meşe Ayaklar",
       duration: "10 İş Günü",
-      image: "/src/assets/images/hero_luxury_sofa_1794493578355.jpg",
+      image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
       featured: true
     },
     {
@@ -133,7 +133,7 @@ export const BUSINESS_CONFIG = {
       description: "30 yıllık antika berjerin iskelet restorasyonu, ceviz kolçak cilası ve vizon kadife kumaş ile baştan sona dönüşümü.",
       materials: "İtalyan Kadife Kumaş · Gomalak Cila · Çelik Zikzak Yay Takviyesi",
       duration: "7 İş Günü",
-      image: "/src/assets/images/restored_armchair_showcase_1794493580114.jpg",
+      image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1200&q=80",
       hasBeforeAfter: true,
       featured: true
     },
@@ -144,7 +144,7 @@ export const BUSINESS_CONFIG = {
       description: "Geniş yaşam alanı için doğal kum beji keten kumaşla üretilen, derin oturumlu lüks modüler köşe koltuk projesi.",
       materials: "Kum Beji Su İtici Keten · Kuştüyü Sünger Pedi · Gürgen İskelet",
       duration: "14 İş Günü",
-      image: "/src/assets/images/custom_bespoke_sectional_1794493579787.jpg",
+      image: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1200&q=80",
       featured: true
     },
     {
@@ -154,7 +154,7 @@ export const BUSINESS_CONFIG = {
       description: "6 adet salon sandalyesinin esneyen kolonlarının değişimi, sünger yenilemesi ve kolay temizlenen dokuma kumaş kaplaması.",
       materials: "Leke Tutmaz Dokuma Kumaş · 32 DNS Sünger · Ahşap Ayak Cilası",
       duration: "5 İş Günü",
-      image: "/src/assets/images/craftsman_upholstery_detail_1794493579160.jpg",
+      image: "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1200&q=80",
       featured: false
     },
     {
@@ -164,7 +164,7 @@ export const BUSINESS_CONFIG = {
       description: "Yıpranmış ahşap kısımların el zımparasıyla temizlenmesi, ceviz tonunda ipek mat koruyucu vernik ve yeni oturma minderi.",
       materials: "İpek Mat Ahşap Verniği · Terracotta Keten Kumaş · Yüksek Dansite Sünger",
       duration: "8 İş Günü",
-      image: "/src/assets/images/restored_armchair_showcase_1794493580114.jpg",
+      image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80",
       featured: false
     },
     {
@@ -174,7 +174,7 @@ export const BUSINESS_CONFIG = {
       description: "Mimari projeye uygun özel ölçü üçlü ve tekli koltuk kombinasyonu. Gizli ayak sistemi ve leke tutmaz nubuk dokusu.",
       materials: "Vizon Nubuk · 35 DNS Ortopedik Blok Sünger · Çelik Karkas",
       duration: "12 İş Günü",
-      image: "/src/assets/images/custom_bespoke_sectional_1794493579787.jpg",
+      image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
       featured: false
     }
   ],
@@ -183,8 +183,8 @@ export const BUSINESS_CONFIG = {
   beforeAfterCase: {
     title: "Öncesi & Sonrası: Klasik Berjerin Yeniden Doğuşu",
     subtitle: "Yılların yıprattığı kumaş ve çöken süngerler yerini modern konfor ve zarafete bıraktı.",
-    beforeImage: "/src/assets/images/worn_chair_before_1794493598412.jpg",
-    afterImage: "/src/assets/images/restored_armchair_showcase_1794493580114.jpg",
+    beforeImage: "https://images.unsplash.com/photo-1519961655809-34fa156820ff?auto=format&fit=crop&w=1200&q=80",
+    afterImage: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1200&q=80",
     beforeLabel: "Yenileme Öncesi (Eski Hal)",
     afterLabel: "Volce Dokunuşu (Yenilenmiş)",
     details: [

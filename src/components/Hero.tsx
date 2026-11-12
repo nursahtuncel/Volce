@@ -76,9 +76,12 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onOpenCalculator 
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-[4/3] lg:aspect-[5/6] overflow-hidden shadow-xl border border-[#EAE3D6] bg-[#EAE3D6]/30">
               <img
-                src="/src/assets/images/hero_luxury_sofa_1794493578355.jpg"
+                src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=80"
                 alt="Volce Design - Lüks Bukle Kumaş Kaplamalı Kavisli Koltuk"
                 referrerPolicy="no-referrer"
+                onError={(e) => {
+                  e.currentTarget.src = "/images/hero_luxury_sofa_1794493578355.jpg";
+                }}
                 className="w-full h-full object-cover object-center transform hover:scale-102 transition-transform duration-700 ease-out"
                 loading="eager"
               />
